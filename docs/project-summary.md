@@ -1,6 +1,6 @@
 # Loan Approval Risk Analytics & Decision Insights
 
-A data analytics project focused on understanding borrower risk patterns and loan approval behaviour using financial, demographic, and credit-related variables through R-based exploratory data analysis and visualisation.
+This project analyses loan approval patterns using borrower financial, credit, income, and behavioural variables.
 
 ## Main Focus
 
